@@ -1,0 +1,10 @@
+D:\repos\Junk Code Generator\Junk Code Generator\bin\Debug\Junk Code Generator.exe.config
+D:\repos\Junk Code Generator\Junk Code Generator\bin\Debug\Junk Code Generator.exe
+D:\repos\Junk Code Generator\Junk Code Generator\bin\Debug\Junk Code Generator.pdb
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk Code Generator.csprojAssemblyReference.cache
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk_Code_Generator.Form1.resources
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk_Code_Generator.Properties.Resources.resources
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk Code Generator.csproj.GenerateResource.cache
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk Code Generator.csproj.CoreCompileInputs.cache
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk Code Generator.exe
+D:\repos\Junk Code Generator\Junk Code Generator\obj\Debug\Junk Code Generator.pdb
